@@ -1,5 +1,5 @@
 {
-	"name": "@telking/pngquant",
+	"name": "@telking/imagemin-pngquant",
 	"version": "9.0.1",
 	"author": {
 		"name": "幸焕光",
